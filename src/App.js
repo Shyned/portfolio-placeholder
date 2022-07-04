@@ -71,7 +71,7 @@ export default function App() {
             },
           })}
         >
-          My Repository
+          Linkedin
         </Button>
       </Group>
     </MantineProvider>
