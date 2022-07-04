@@ -45,7 +45,7 @@ export default function App() {
             },
           })}
         >
-          My Repository
+          Github
         </Button>
         <Button
           component="a"
